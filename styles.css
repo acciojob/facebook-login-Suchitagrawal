@@ -31,6 +31,8 @@ button{
 	border-radius: 5px;
 	padding: 10px 20px;
 	width: 100%;
+	border: none;
+	color: white;
 }
 a{
 	text-decoration: none;
